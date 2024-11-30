@@ -1,0 +1,37 @@
+{
+    "0": {
+        "title": "Kemampuan Merangkum Tulisan",
+        "description": "Lorem ipsum dolor sit amet consectetur. Nulla risus malesuada ac turpis tempus. Lorem ipsum dolor sit amet consectetur....",
+        "image": "https://s3-alpha-sig.figma.com/img/3b95/b15a/f8a9b5e1cd1fb2e0095bfcc79ef91e8a?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=l4QMRGtRhNAcFb3WzcVdZBn7z-OcQyLHyMqpkTg3k-so0CO-CNpdtZvPq0X~B-wB4sPGtfJq41id2E7CIb~CjpnEud1ElS-pKSlEnBhQBqVHnFQOJl37lAu58nlOSnTVzKq4OcJpm2N2SuZ88hjSvSx2yVxfjKSzffivRPOp6RhBeavy7VKleGvTgflRUCcrjualQ~yaEDN7wQGzazAlSvFq062fSdHFYu~9ULv1DrE0IL9FZ9DpEUIjhW6sJaTzoL2r7TMAaTkx2i6wHKZydMQXhnQ~ZoXgcB~ENPIJRRIJQGDdinO8oN5CdYKac1d2eJRMdX8rX3MpsKOA3qa5mw__",
+        "name": "BAHASA SUNDA",
+        "sub_name": "Oleh Al Baiqi Samaan"
+    },
+    "1": {
+        "title": "Pengenalan JavaScript",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel ligula quis risus fermentum venenatis at non ipsum.",
+        "image": "https://s3-alpha-sig.figma.com/img/55e0/b10c/0051181a9e3eecaeaf6f5631d2c583c7?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SyjXkm1X6sn5yiN0e0MVWovpWMLXy8vCZDU5USFdd3f8RizcZifELfsqED2045WFeTlyx5S47ubl8bMRabswAEKwxTBhcEhgMikGzOw1uuqzK45diH5pMK5jMSBrJTwQsSWZ9ki5SE~9MuJXp2PpILXqwjt3a4zhQBA3Mdk8mqRoHb-9bvV55PMlOhxet0v26Hoam7DUClkcNPm32XEwCg0HkbDyU2e-fBJPK9yRU1UFRuOU1cnD1Lqr-5JF5ZmN-SWljvS5Fep8xlGmrnBzgMRkdRNCYhn7S1TMBe4ggsW9PVJSVQiEjj3EddTDgmDrdaO22tBv8jKrX1HXFm1leg__",
+        "name": "PEMROGRAMAN WEB",
+        "sub_name": "Oleh John Doe"
+    },
+    "2": {
+        "title": "Pembangunan Aplikasi Mobile",
+        "description": "Pembangunan aplikasi mobile menggunakan React Native, yang memungkinkan pembuatan aplikasi untuk iOS dan Android.",
+        "image": "https://s3-alpha-sig.figma.com/img/a717/90d1/c98e3a7acabd26f4ea21f8c3abc28cd1?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AaCUe6GsYP0GKEs4GUhWqgAw7kVW1IsNgHey~FQKeJaMGM4xcvyi3V8NBa-mI8X0g7pH1MvPpqCUAXxWWoKCOsKvjaYliU2b6h3yzKg1vj3fWVpxH8pJY83DTw7bNbIs453GC5sRtDOwKTsMrnQpJ-WfP-bq46H2o5oNJc1EFTC8jqA0HXhzyJ30rM-StL6lo-Mc-Wf0QkLFiOF9DQjcCPi40SsuSZ3XFx95Cce1H-HQwrGjrWtG8ruZuXpEbG~u0v2D4NtPCnHfvdu-agf4gdf-6QW8Hdc~0fcpHBSFJuuQM8OHkX~sD2rRxhhAAaC12ZHrh1PobBuXlrsGCKzTIg__",
+        "name": "MOBILE DEVELOPMENT",
+        "sub_name": "Oleh Jane Smith"
+    },
+    "3": {
+        "title": "Pembangunan Aplikasi Mobile",
+        "description": "Pembangunan aplikasi mobile menggunakan React Native, yang memungkinkan pembuatan aplikasi untuk iOS dan Android.",
+        "image": "https://s3-alpha-sig.figma.com/img/57b5/590d/bb7a90bd3fad6f173e1be4407828cc27?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AA5dD1zy65wedRFSGWxgNdGv3UijUhJwvnkAEVcBBKv7zLhjBOAC6RlLXxbeCupKBUd1azpx2bTagdTKL9ZgZVz2AhjerdgTBhi7EszmAnJPLqZ2v~Ht1so0McH3XfpODVk5Tb1p1BLZ42PJH~Ciis19PUcaWgCuN8zbsOmqB-knGK47McIy3hSMDpmJjOrIKwXejsCgtncaS8WjH-rOLZLkYJa-r3TCwjPfl1tA6grUcMBg9lVl2GsSO2rr0ifCtp~n3JkXU52BtuExatpKuhtLws3atXwuLcYRCWKBelRSHj1VEALTiRxl9ANdrxcB2JqoMnfGVUXoq0CorFQ~RA__",
+        "name": "MOBILE DEVELOPMENT",
+        "sub_name": "Oleh Jane Smith"
+    },
+    "4": {
+        "title": "Pembangunan Aplikasi Mobile",
+        "description": "Pembangunan aplikasi mobile menggunakan React Native, yang memungkinkan pembuatan aplikasi untuk iOS dan Android.",
+        "image": "https://s3-alpha-sig.figma.com/img/3292/1b54/a1967de10d5815717b9e4c5c255f4c17?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZTKV2bP30fpSDsdnVkjYkUan5xis2QmzDFZyS6rrWGJtlGIiEIwP5n7RtSnZF2o3XNp7M4ciRgCGEQXoDQUbHoBj2FmQ-zuVfO4TQXkp-5a23D6bvGbx3yD3dJc-UhkXH34-hH9Ft0AApmPC1vt55HnjG~RLByNat5Klc87HnGkKTO8aR2DIT~P3huMcsR3~QBspgeu9UL3kU-f-OQlcwT-tIJf2l2mKA-r1l5eFCMtUKPnBrKL6-hbL78eHsHT8152z1laxWowQ8gTVSsUhjJrMkjdQ8qbGWfloiR9cbGieIyx7iKEIERBkE6XMtyW8FV38Zc5Rv2st90dndfudeA__",
+        "name": "MOBILE DEVELOPMENT",
+        "sub_name": "Oleh Jane Smith"
+    }
+}
